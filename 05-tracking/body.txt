@@ -1,0 +1,4 @@
+<!-- Nenhum código de <body> foi fornecido no brief.
+     Só é necessário se a stack usar GTM (o <noscript> do GTM entra logo
+     após a abertura do <body>). Meta Pixel e GA4 puros NÃO precisam de
+     código no body. Ver LEIA-ME.md desta pasta. -->
